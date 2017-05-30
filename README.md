@@ -9,9 +9,7 @@
             
    
   **Methods** :Preprocessing the variables of the datasets. The datasets are stock sources which are loaded into the R enviroment from csv format.  
-     
-    **Date** : Originally date format in the dataset is *16-Mar-17*,and its data type is factor, which is converted to date type using  
-    ```as.date()``` to 2017-03-16.
+    * Date : Originally date format in the dataset is *16-Mar-17*,and its data type is factor, which is converted to date type using ```as.date()``` to 2017-03-16.
   
             
             
