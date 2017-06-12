@@ -22,9 +22,9 @@
 Considering sources which has longest historical price range, based on their number of rows we select the sources having 4000 rows. We create a datasets *Open,High,Low,Close* . For instance Open dataset consists of open prices for all the stock sources having 4000 rows, so on for Close, High and Low.
 
 ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/open.JPG) ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/open_graph.JPG)   
-![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/high.JPG)  
-![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/low.JPG)  
-![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close.JPG)
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/high.JPG) ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/high_graph.JPG)    
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/low.JPG)  ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/low_graph.JPG)    
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close.JPG)![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_graph.JPG)   
   
   
   
