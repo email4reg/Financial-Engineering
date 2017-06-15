@@ -9,3 +9,4 @@ setwd("C:\\Users\\Jishu\\Desktop\\financial analysis\\nasdaq_4000")
 load("close.Rdata")
 ```  
 
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close.JPG)
