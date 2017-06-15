@@ -9,4 +9,19 @@ setwd("C:\\Users\\Jishu\\Desktop\\financial analysis\\nasdaq_4000")
 load("close.Rdata")
 ```  
 
-![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close.JPG)
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close.JPG)  
+
+Below plots shows fluctuation of closing prices for individual stocks.  
+
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_price_AAPL.JPG)  
+
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_price_AMD.JPG)  
+
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_price_AMZN.JPG)  
+
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_price_ATVI.JPG)  
+
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_price_INTC.JPG)  
+
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_price_MSFT.JPG)
+
