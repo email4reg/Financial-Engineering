@@ -7,6 +7,5 @@ Lets load close data for data frame length 4000.
 ```
 setwd("C:\\Users\\Jishu\\Desktop\\financial analysis\\nasdaq_4000")
 load("close.Rdata")
-
 ```  
 
