@@ -46,6 +46,8 @@ We perform the same function for other stocks and then create a dataset which co
 
 We can calculate correlation between the log return prices.  
 
+\sum
+
 ```
 > correlation_aapl_msft=cor(log_ret_close$aapl_close_return,log_ret_close$msft_close_return)
 > print(correlation_aapl_msft)
