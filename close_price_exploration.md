@@ -37,6 +37,12 @@ Now we have new dataframe that consists of *date,close_price,close_return_price*
 
 ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/aapl_close_ret.JPG)  
 
+We perform the same function for other stocks and then create a dataset which consists of log return prices for all stocks.
+
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/log_ret_close.JPG)  
+
+We can calculate correlation between the log return prices.
+
 
 
 
