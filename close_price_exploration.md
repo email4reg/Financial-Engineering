@@ -41,7 +41,20 @@ We perform the same function for other stocks and then create a dataset which co
 
 ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/log_ret_close.JPG)  
 
-We can calculate correlation between the log return prices.
+** Correlation Log Returns : **
+
+We can calculate correlation between the log return prices.  
+
+```
+> correlation_aapl_msft=cor(log_ret_close$aapl_close_return,log_ret_close$msft_close_return)
+> print(correlation_aapl_msft)
+[1] 0.4340126
+```
+
+
+
+
+
 
 
 
