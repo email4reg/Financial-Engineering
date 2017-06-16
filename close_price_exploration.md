@@ -23,5 +23,9 @@ Below plots shows fluctuation of closing prices for individual stocks.
 
 ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_price_INTC.JPG)  
 
-![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_price_MSFT.JPG)
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/close_price_MSFT.JPG)  
+
+## Calculating Log-Returns :  
+
+
 
