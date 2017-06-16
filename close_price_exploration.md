@@ -41,7 +41,8 @@ We perform the same function for other stocks and then create a dataset which co
 
 ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/log_ret_close.JPG)  
 
-** Correlation Log Returns : **
+
+**Correlation Log Returns :**
 
 We can calculate correlation between the log return prices.  
 
