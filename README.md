@@ -19,6 +19,31 @@
   ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/desc_data.JPG)   
   ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/data_tab.JPG)    
   
+Listing the stocks and their individual length.  
+```
+tickers= temp
+j=0
+for(t in tickers)
+{
+  j=j+1
+  a =get(noquote(t))[,1]
+  print(c(t,length(a)))
+
+}  
+
+[1] "aapl.csv" "4000"    
+[1] "amd.csv" "4000"   
+[1] "amzn.csv" "4000"    
+[1] "atvi.csv" "4000"    
+[1] "fb.csv" "1215"  
+[1] "goog.csv" "3165"    
+[1] "googl.csv" "3165"     
+[1] "intc.csv" "4000"    
+[1] "msft.csv" "4000"    
+[1] "tsla.csv" "1691"    
+
+```
+
 Considering sources which has longest historical price range, based on their number of rows we select the sources having 4000 rows. We create a datasets *Open,High,Low,Close* . For instance Open dataset consists of open prices for all the stock sources having 4000 rows, so on for Close, High and Low.
 
 **Open**  
