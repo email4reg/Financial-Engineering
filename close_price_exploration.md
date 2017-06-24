@@ -50,7 +50,13 @@ We can calculate correlation between the log return prices.
 > correlation_aapl_msft=cor(log_ret_close$aapl_close_return,log_ret_close$msft_close_return)
 > print(correlation_aapl_msft)
 [1] 0.4340126
-```
+```  
+## Merging the close price :  
+
+We combine the closing price into a single dataframe.
+
+
+
 
 
 
