@@ -53,7 +53,21 @@ We can calculate correlation between the log return prices.
 ```  
 ## Merging the close price :  
 
-We combine the closing price into a single dataframe.
+We combine the closing price into a single dataframe.Since the length of the stocks are variable its trivial to put stocks of variable length in a single dataframe.
+
+```
+[1] "aapl.csv" "4000"    
+[1] "amd.csv" "4000"   
+[1] "amzn.csv" "4000"    
+[1] "atvi.csv" "4000"    
+[1] "fb.csv" "1215"  
+[1] "goog.csv" "3165"    
+[1] "googl.csv" "3165"     
+[1] "intc.csv" "4000"    
+[1] "msft.csv" "4000"    
+[1] "tsla.csv" "1691"    
+```  
+For instance sources like facebook,tesla and google have different length, so to fit them in a dataframe we need to merge them by dates. Dates, excluding all dates for which all stocks do not have data. The merge function is a intersect and union join.
 
 
 
