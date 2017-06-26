@@ -82,7 +82,7 @@ Going through the table we find "dt" is the list of dates for which data is avai
 * column7 - googl_close_price  
 * column8 - intc_close_price  
 * column9 - msft_close_price  
-* column1 - tsla_close_price
+* column10 - tsla_close_price
 
 ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/stock_table_head_tail.JPG)  
 
