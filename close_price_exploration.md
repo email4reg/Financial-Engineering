@@ -73,16 +73,16 @@ For instance sources like facebook,tesla and google have different length, so to
 
 Going through the table we find "dt" is the list of dates for which data is available for all stocks. For information the row names are :  
 * dt - row numbers of common dates  
-* column1 - aapl_close_price  
-* column2 - amd_close_price  
-* column3 - amzn_close_price  
-* column4 - atvi_close_price  
-* column5 - fb_close_price  
-* column6 - goog_close_price  
-* column7 - googl_close_price  
-* column8 - intc_close_price  
-* column9 - msft_close_price  
-* column10 - tsla_close_price
+* column2 - aapl_close_price  
+* column3 - amd_close_price  
+* column4 - amzn_close_price  
+* column5 - atvi_close_price  
+* column6 - fb_close_price  
+* column7 - goog_close_price  
+* column8 - googl_close_price  
+* column9 - intc_close_price  
+* column10 - msft_close_price  
+* column11 - tsla_close_price
 
 ![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/stock_table_head_tail.JPG)  
 
