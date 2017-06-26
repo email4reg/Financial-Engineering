@@ -67,7 +67,24 @@ We combine the closing price into a single dataframe.Since the length of the sto
 [1] "msft.csv" "4000"    
 [1] "tsla.csv" "1691"    
 ```  
-For instance sources like facebook,tesla and google have different length, so to fit them in a dataframe we need to merge them by dates. Dates, excluding all dates for which all stocks do not have data. The merge function is a intersect and union join.
+For instance sources like facebook,tesla and google have different length, so to fit them in a dataframe we need to merge them by dates. Dates, excluding all dates for which all stocks do not have data. The merge function is a intersect and union join.  
+
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/stock_by_dt.JPG)  
+
+Going through the table we find "dt" is the list of dates for which data is available for all stocks.  
+
+![alt text](https://github.com/jishu1989/Financial-Analysis/blob/master/screenshots/stock_table_head_tail.JPG)  
+
+One more thing to notice we have the data-frame length of 1215, which is the size of "fb.csv".Since this is the shortest dataset.Now we find the correlation between columns so as to find the correlation among various close prices.
+
+```
+> cor(stock_table[,3],stock_table[,4]) #comparing amd.csv and amzn.csv
+[1] 0.5537574
+```
+
+
+
+
 
 
 
