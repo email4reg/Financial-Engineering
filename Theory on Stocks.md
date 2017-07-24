@@ -9,7 +9,11 @@ The basic idea for small shareholders is not to work and get easy money just inv
 **Why companies issue stock?- Debt vs. Equity**  
 Some point of time every company needs to raise money,to do this company either borrow money or raise it by selling part of the company,which is known as issuing stock.A company has two ways to borrow money, one by taking loan from banks which is know as **debt financing**.The other way by issuing stock which is known as **equity financing**.  
 Issuing stock/Equity financing is advantageous for companies since the companies don't need to pay back the money with interest. All that the shareholders get in return for their money is the hope that the shares will someday be worth more than what they paid for them.   
-When you buy a *debt* investment such as a bond, you are guaranteed the return of your money (the principal) along with promised interest payments.Whereas in *equity* investment, the risk of the company not being successful just as a small business owner isn't guaranteed a return, neither is a shareholder. Shareholders earn a lot if a company is successful, but they also stand to lose their entire investment if the company isn't successful.
+When you buy a *debt* investment such as a bond, you are guaranteed the return of your money (the principal) along with promised interest payments.Whereas in *equity* investment, the risk of the company not being successful just as a small business owner isn't guaranteed a return, neither is a shareholder. Shareholders earn a lot if a company is successful, but they also stand to lose their entire investment if the company isn't successful.  
+
+**Types of Stocks:**  
+
+
 
 
 ## Important Terms:  
