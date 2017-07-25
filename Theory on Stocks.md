@@ -27,8 +27,12 @@ When there is more classes of stocks they are designated as *class A and class B
 ## Stock Exchanges: NYSE,NASDAQ  
 **New York Stock Exchange(NYSE):** One of the most prestigious stock exchange in the world.Currently NYSE has stocks of huge American Enterprises like : General Electric, McDonald's,Citigroup, Coca-Cola, Gillette and Wal-mart. 
   
-**NASDAQ:** Over The Counter(OTC) market of which NASDAQ is the most popular.Nasdaq is home to several big technology companies such as Microsoft,Cisco,Intel, Dell and Oracle. This has resulted in the Nasdaq becoming a serious competitor to the NYSE. 
+**NASDAQ:** Over The Counter(OTC) market, have no central location or floor brokers whatsoever. Trading is done through a computer and telecommunications network of dealers.NASDAQ is the most popular OTC exchange.Nasdaq is home to several big technology companies such as Microsoft,Cisco,Intel, Dell and Oracle. This has resulted in the Nasdaq becoming a serious competitor to the NYSE.  
+  
 
+## Change in Stock Prices:  
+
+Stock prices changes everyday due its market forces.If more people wants to buy a particular stock
 
 
 ## Important Terms:  
