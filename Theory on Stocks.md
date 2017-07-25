@@ -21,8 +21,12 @@ Two main types of stocks are : **Common Stock** and **Preferred Stock**.
 **Preferred Stock**: Preferred stocks represents some degree of ownership in a company, but doesn't come with the same voting rights.Preferred shares are guaranteed a fixed dividend forever.Another advantage is that in the event of liquidation, preferred shareholders are paid off before the common shareholder (but still after debt holders). Preferred stock may also be callable, meaning that the company has the option to purchase the shares from shareholders at anytime for any reason (usually for a premium).  
 
 **Different Classes Of Stocks:**  
+Companies customize different classes of stocks, in a way they want to have the voting power to remain in certain groups, hence different classes of shares are given different voting rights.  
+When there is more classes of stocks they are designated as *class A and class B*. For instance,Berkshire Hathaway (ticker: BRK), has two classes of stock. The different forms are represented by placing the letter behind the ticker symbol in a form like this: "BRKa, BRKb" or "BRK.A, BRK.B".
 
-
+## Stock Exchanges: NYSE,NASDAQ  
+**New York Stock Exchange(NYSE):** One of the most prestigious stock exchange in the world.Currently NYSE has stocks of huge American Enterprises like : General Electric, McDonald's,Citigroup, Coca-Cola, Gillette and Wal-mart.  
+**NASDAQ:** Over The Counter(OTC) market of which NASDAQ is the most popular.
 
 
 
@@ -30,7 +34,11 @@ Two main types of stocks are : **Common Stock** and **Preferred Stock**.
 * **Dividend:** A dividend is a distribution of a portion of a company's earnings decided by the board of directors, to a class of its shareholders.Dividends can be issued as *cash payments, as shares of stock or other property*.  
 * **Liquidation:** Liquidation is an event that usually occurs when a company is insolvent, meaning it cannot pay its obligations as and when they come due. The company’s operations are brought to an end, and its assets are divied up among creditors and shareholders, according to the priority of their claims.
 * **IPO(Initial Public Offering):** An initial public offering (IPO) is the first time that the stock of a private company is offered to the public. IPOs are often issued by smaller, younger companies seeking capital to expand, but they can also be done by large privately owned companies looking to become publicly traded.  
-* **Absolute Priority:** An absolute priority is a rule that stipulates the order of payment - creditors before shareholders - in the event of liquidation. The absolute priority rule is used in bankruptcies to decide what portion of payment will be received by which participants. Debts to creditors will be paid first and shareholders (partial owners) divide what remains.
+* **Absolute Priority:** An absolute priority is a rule that stipulates the order of payment - creditors before shareholders - in the event of liquidation. The absolute priority rule is used in bankruptcies to decide what portion of payment will be received by which participants. Debts to creditors will be paid first and shareholders (partial owners) divide what remains.  
+* **Inventory:** Inventory is the raw materials, work-in-process products and finished goods that are considered to be the portion of a business's assets that are ready or will be ready for sale. Inventory represents one of the most important assets of a business because the turnover of inventory represents one of the primary sources of revenue generation and subsequent earnings for the company's shareholders.  
+
+
+
 
 
 
