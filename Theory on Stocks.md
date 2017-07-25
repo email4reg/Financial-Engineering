@@ -25,8 +25,9 @@ Companies customize different classes of stocks, in a way they want to have the 
 When there is more classes of stocks they are designated as *class A and class B*. For instance,Berkshire Hathaway (ticker: BRK), has two classes of stock. The different forms are represented by placing the letter behind the ticker symbol in a form like this: "BRKa, BRKb" or "BRK.A, BRK.B".
 
 ## Stock Exchanges: NYSE,NASDAQ  
-**New York Stock Exchange(NYSE):** One of the most prestigious stock exchange in the world.Currently NYSE has stocks of huge American Enterprises like : General Electric, McDonald's,Citigroup, Coca-Cola, Gillette and Wal-mart.  
-**NASDAQ:** Over The Counter(OTC) market of which NASDAQ is the most popular.
+**New York Stock Exchange(NYSE):** One of the most prestigious stock exchange in the world.Currently NYSE has stocks of huge American Enterprises like : General Electric, McDonald's,Citigroup, Coca-Cola, Gillette and Wal-mart. 
+  
+**NASDAQ:** Over The Counter(OTC) market of which NASDAQ is the most popular.Nasdaq is home to several big technology companies such as Microsoft,Cisco,Intel, Dell and Oracle. This has resulted in the Nasdaq becoming a serious competitor to the NYSE. 
 
 
 
@@ -36,6 +37,8 @@ When there is more classes of stocks they are designated as *class A and class B
 * **IPO(Initial Public Offering):** An initial public offering (IPO) is the first time that the stock of a private company is offered to the public. IPOs are often issued by smaller, younger companies seeking capital to expand, but they can also be done by large privately owned companies looking to become publicly traded.  
 * **Absolute Priority:** An absolute priority is a rule that stipulates the order of payment - creditors before shareholders - in the event of liquidation. The absolute priority rule is used in bankruptcies to decide what portion of payment will be received by which participants. Debts to creditors will be paid first and shareholders (partial owners) divide what remains.  
 * **Inventory:** Inventory is the raw materials, work-in-process products and finished goods that are considered to be the portion of a business's assets that are ready or will be ready for sale. Inventory represents one of the most important assets of a business because the turnover of inventory represents one of the primary sources of revenue generation and subsequent earnings for the company's shareholders.  
+* **Bid:** A bid is an offer made by an investor, a trader or a dealer to buy a security, commodity or currency. It stipulates both the price the potential buyer is willing to pay and the quantity to be purchased at that price. Bid also refers to the price at which a market maker is willing to buy; unlike a retail buyer, a market maker also displays an ask price.  
+
 
 
 
