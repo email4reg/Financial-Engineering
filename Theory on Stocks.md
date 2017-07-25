@@ -2,7 +2,7 @@
 
 Source: http://i.investopedia.com/inv/pdf/tutorials/stock_basics.pdf  
 
-## What is a Stock ?-Stock,Share,Equity all same.  
+## What is a Stock ?-Stock,Share,Equity all are same.  
 
 Stock,share,equity all are same.Stock is a share in the ownership of a company.It represents a claim on the company's assets and earnings.As someone acquires more stock,his ownership or stake becomes higher.Stocks can create massive amount of wealth in no time, but they aren't without risk.  
 **What is being a shareholder mean?**  
