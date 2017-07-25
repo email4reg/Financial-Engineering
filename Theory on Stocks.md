@@ -1,5 +1,7 @@
 # Fundamentals of Stock Market  
 
+Source: http://i.investopedia.com/inv/pdf/tutorials/stock_basics.pdf  
+
 ## What is a Stock ?-Stock,Share,Equity all same.  
 
 Stock,share,equity all are same.Stock is a share in the ownership of a company.It represents a claim on the company's assets and earnings.As someone acquires more stock,his ownership or stake becomes higher.Stocks can create massive amount of wealth in no time, but they aren't without risk.  
@@ -12,6 +14,14 @@ Issuing stock/Equity financing is advantageous for companies since the companies
 When you buy a *debt* investment such as a bond, you are guaranteed the return of your money (the principal) along with promised interest payments.Whereas in *equity* investment, the risk of the company not being successful just as a small business owner isn't guaranteed a return, neither is a shareholder. Shareholders earn a lot if a company is successful, but they also stand to lose their entire investment if the company isn't successful.  
 
 **Types of Stocks:**  
+
+Two main types of stocks are : **Common Stock** and **Preferred Stock**.  
+
+**Common Stock**: Common stocks form the majority of the stock,it represents ownership and a claim(dividends) on a portion of profit.Common stock yeilds higher return than other investments.This higher return comes at a cost since common stocks entail the most risk. If a company goes bankrupt and liquidates, the common shareholders will not receive money until the creditors,bondholders and preferred shareholders are paid.  
+**Preferred Stock**: Preferred stocks represents some degree of ownership in a company, but doesn't come with the same voting rights.Preferred shares are guaranteed a fixed dividend forever.Another advantage is that in the event of liquidation, preferred shareholders are paid off before the common shareholder (but still after debt holders). Preferred stock may also be callable, meaning that the company has the option to purchase the shares from shareholders at anytime for any reason (usually for a premium).  
+
+**Different Classes Of Stocks:**  
+
 
 
 
