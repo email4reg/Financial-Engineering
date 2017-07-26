@@ -30,10 +30,9 @@ When there is more classes of stocks they are designated as *class A and class B
 **NASDAQ:** Over The Counter(OTC) market, have no central location or floor brokers whatsoever. Trading is done through a computer and telecommunications network of dealers.NASDAQ is the most popular OTC exchange.Nasdaq is home to several big technology companies such as Microsoft,Cisco,Intel, Dell and Oracle. This has resulted in the Nasdaq becoming a serious competitor to the NYSE.  
   
 
-## Change in Stock Prices:  
+## Why do Stock Prices change?  
 
-Stock prices changes everyday due its market forces.If more people wants to buy a particular stock
-
+Stock prices changes everyday due its market forces.If more people wants to buy a particular stock,that means its demand is high and price of that stock moves up.Similarly when people want to sell a particular stock, there will be greater supply than its demand hence the price of the stock falls.
 
 ## Important Terms:  
 * **Dividend:** A dividend is a distribution of a portion of a company's earnings decided by the board of directors, to a class of its shareholders.Dividends can be issued as *cash payments, as shares of stock or other property*.  
