@@ -1,7 +1,7 @@
 # Quantmod Package Analysis
 
 
-list of functions in quantmod package:
+list of functions available in quantmod package:
 ```
 > lsf.str("package:quantmod")
 Ad : function (x)  
