@@ -1,4 +1,4 @@
-# Quantmod Package Analysis
+# Quantmod Package Functions
 
 
 list of functions available in quantmod package:
